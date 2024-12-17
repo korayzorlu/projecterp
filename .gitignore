@@ -20,11 +20,11 @@ dbbackup/*
 aws/**/*
 
 #Ignore Manage.py
-./manage.py
-manage.py 
-manage.*
-*.manage
-.manage.py
+# ./manage.py
+# manage.py 
+# manage.*
+# *.manage
+# .manage.py
 
 
 
